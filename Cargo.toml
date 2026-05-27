@@ -1,0 +1,9 @@
+[package]
+name = "hangman"
+version = "0.2.0"
+authors = ["Ric Messier <kilroy@washere.com>"]
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+eframe = "0.31"
